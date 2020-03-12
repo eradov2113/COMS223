@@ -11,6 +11,7 @@ import java.io.PrintWriter;
  * @author Sesh Venugopal
  *
  */
+@SuppressWarnings("unused")
 public class PostfixEvaluator {
 
 	/**
